@@ -1,4 +1,4 @@
-<img width="2100" height="2580" alt="jocelyn-profile" src="https://github.com/user-attachments/assets/d789e1f0-cfdd-4d5c-ae50-af57b1e94751" />
+<img width="2100" height="2580" alt="jocelyn-profile" src="https://github.com/user-attachments/assets/667ba370-5cb8-48af-b8a1-0f5bbea8c78d" />
 
 ## Contact
 
